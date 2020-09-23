@@ -1,0 +1,8 @@
+               #               m      "                         ""#
+ mmmmm  m   m  #mmm    mmm   mm#mm  mmm     mmm          mmmm     #    m   m   mmm
+ # # #  "m m"  #" "#  "   #    #      #    #   "         #" "#    #    #   #  #   "
+ # # #   #m#   #   #  m"""#    #      #     """m   """   #   #    #    #   #   """m
+ # # #   "#    ##m#"  "mm"#    "mm  mm#mm  "mmm"         ##m#"    "mm  "mm"#  "mmm"
+         m"                                              #
+        ""                                               "
+springboot.version: ${spring-boot.version}

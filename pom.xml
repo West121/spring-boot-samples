@@ -4,7 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.west</groupId>
     <artifactId>spring-boot-samples</artifactId>
+    <packaging>pom</packaging>
     <version>1.0</version>
+    <modules>
+        <module>mybatis-plus-demo</module>
+    </modules>
     <name>spring-boot-samples</name>
     <description>spring boot samples</description>
 
